@@ -1,3 +1,3 @@
 # ConversionCF
-Repertoire appli conversion Celius/Far 
-Création repertoire appli
+Repertoire appli conversion Celsius/Far 
+Création repertoire appli 
